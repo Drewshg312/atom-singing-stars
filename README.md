@@ -1,4 +1,4 @@
-# atom-singing-stars theme
+# atom-singing-stars syntax theme
 
 My favourite high contrast hybrid color scheme for Atom:
 
