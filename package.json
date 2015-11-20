@@ -1,13 +1,18 @@
 {
   "name": "atom-singing-stars",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.2.1",
+  "description": "A dark blue contrast color scheme for Atom",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "singing",
+    "stars"
   ],
-  "repository": "https://github.com/atom/atom-singing-stars",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drewshg312/atom-singing-stars.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
