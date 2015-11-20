@@ -1,7 +1,12 @@
 # atom-singing-stars theme
 
-A short description of your theme.
+My favourite high contrast hybrid color scheme for Atom:
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+##Python
+![Singing Stars Screenshot](imgs/python.png)
 
-![Singing Stars Screenshot](imgs/SingingStars.png)
+##Bash
+![Singing Stars Screenshot](imgs/bash.png)
+
+##HTML
+![Singing Stars Screenshot](imgs/html.png)
