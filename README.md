@@ -3,10 +3,11 @@
 My favourite high contrast hybrid color scheme for Atom:
 
 ## Python
-![Singing Stars Screenshot](imgs/python.jpg)
+
+![](imgs/python.jpg)
 
 ## Bash
-![Singing Stars Screenshot](imgs/bash.jpg)
+![](imgs/bash.jpg)
 
 ## HTML
-![Singing Stars Screenshot](imgs/html.jpg)
+![](imgs/html.jpg)
