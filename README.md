@@ -4,10 +4,12 @@ My favourite high contrast hybrid color scheme for Atom:
 
 ## Python
 
-![](imgs/python.jpg)
+![](imgs/python.png)
 
 ## Bash
-![](imgs/bash.jpg)
+
+![](imgs/bash.png)
 
 ## HTML
-![](imgs/html.jpg)
+
+![](imgs/html.png)
