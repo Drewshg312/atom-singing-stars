@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/drew-kun/atom-singing-stars.git"
+    "url": "git@github.com:drew-kun/atom-singing-stars.git"
   },
   "license": "MIT",
   "engines": {
