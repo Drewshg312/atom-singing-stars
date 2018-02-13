@@ -20,6 +20,6 @@ My favourite high contrast hybrid color scheme for [Atom text editor][atom-link]
 [atom-link]: https://atom.io/
 [atom-git]: https://github.com/atom/atom
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
-[mit-link]: https://raw.githubusercontent.com/drew-kun/ansible-homebrew/master/LICENSE
+[mit-link]: https://raw.githubusercontent.com/drew-kun/atom-singing-stars/master/LICENSE
 [theme-badge]: https://img.shields.io/badge/theme-atom--singing--stars-brightgreen.svg
 [theme-link]: https://atom.io/themes/atom-singing-stars
