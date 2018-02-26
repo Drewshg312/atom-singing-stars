@@ -23,3 +23,8 @@ My favourite high contrast hybrid color scheme for [Atom text editor][atom-link]
 [mit-link]: https://raw.githubusercontent.com/drew-kun/atom-singing-stars/master/LICENSE
 [theme-badge]: https://img.shields.io/badge/theme-atom--singing--stars-brightgreen.svg
 [theme-link]: https://atom.io/themes/atom-singing-stars
+
+Author Information
+------------------
+
+Andrew Shagayev | [e-mail](mailto:drewshg@gmail.com)
